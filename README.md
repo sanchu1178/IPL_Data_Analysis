@@ -1,7 +1,7 @@
 # 🏏 IPL Data Analysis   
 
 ## 📌 Overview  
-This project analyzes IPL (Indian Premier League) data to gain insights into team performance, player statistics, and match trends. The analysis is performed using **Microsoft Excel**, incorporating pivot tables and an interactive dashboard.  
+This project analyzes IPL (Indian Premier League) data to gain insights into team performance, player statistics, and match trends. The analysis is performed using **Microsoft Excel**, incorporating pivot tables and an interactive dashboard.
 
 ## 📁 Dataset 
 -<a href = "https://drive.google.com/file/d/17vztkJWCR6wcHSbbw2bnS-KPh31YDtNZ/view?usp=sharing" > IPL_dataset  </a>
